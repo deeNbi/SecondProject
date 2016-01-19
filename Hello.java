@@ -8,6 +8,7 @@ public class Hello{
 	System.out.println("what's DVC?");
 	System.out.println("what is Git?");
 	System.out.println("Distributed Version Control System");
+	System.out.println("That's version control");
 	}
 
 }
