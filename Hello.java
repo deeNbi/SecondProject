@@ -10,5 +10,4 @@ public class Hello{
 	System.out.println("Distributed Version Control System");
 	}
 
-
 }
